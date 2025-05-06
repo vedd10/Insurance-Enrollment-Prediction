@@ -25,6 +25,7 @@ All models tracked and compared using **MLflow**.
 - **F1 Score**
 
 ## 🛠️ How to Run
+- Hit run all cells on jupyter notebook or google colab :)
 
 ### 1. Clone the repo
 ```bash
